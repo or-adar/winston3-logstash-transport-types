@@ -1,0 +1,14 @@
+{
+  "name": "@types/winston3-logstash-transport",
+  "version": "1.0.0",
+  "description": "type definitions for winston3-logstash-transport",
+  "types": "src/",
+  "repository": "https://github.com/technoshuz/winston3-logstash-transport",
+  "author": "Or Adar",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.2.4",
+    "winston-transport": "^4.4.0",
+    "@types/node": "^15.0.2"
+  }
+}
