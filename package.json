@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "type definitions for winston3-logstash-transport",
   "types": "src/",
-  "repository": "https://github.com/technoshuz/winston3-logstash-transport",
+  "repository": "https://github.com/technoshuz/types-winston3-logstash-transport",
   "author": "Or Adar",
   "license": "ISC",
   "devDependencies": {
